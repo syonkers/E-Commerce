@@ -28,7 +28,7 @@ export const createUserProfileDocument = async (userAuth, additionData) => {
                 email,
                 createdAt,
                 ...additionData
-            })
+            });
         } catch (error) {
             console.log('error creating user', error.message);
         }
