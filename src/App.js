@@ -10,8 +10,8 @@ import ShopPage from './pages/shop/shop.component';
 import SigninPage from './pages/signin/signin.component';
 import CheckoutPage from './pages/checkout/checkout.component';
  
-import { setCurrentUser } from './redux/actions/user.action';
-import { selectCurrentUser } from './redux/selectors/user.selector';
+import { setCurrentUser } from './redux/actions/user.actions';
+import { selectCurrentUser } from './redux/selectors/user.selectors';
 
 import './App.css';
 
