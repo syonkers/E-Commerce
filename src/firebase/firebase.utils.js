@@ -3,13 +3,13 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyD5acFVhwOqarpOzqKpP0ZDonffHfZhfMw",
-    authDomain: "ecommerce-db-77d56.firebaseapp.com",
-    databaseURL: "https://ecommerce-db-77d56.firebaseio.com",
-    projectId: "ecommerce-db-77d56",
-    storageBucket: "ecommerce-db-77d56.appspot.com",
-    messagingSenderId: "864021945990",
-    appId: "1:864021945990:web:3b2eae5504e16a3f"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
 
 // Initialize Firebase
